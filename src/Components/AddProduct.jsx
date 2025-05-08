@@ -100,6 +100,7 @@ const AddProduct = () => {
                         <option value="Books">Books</option>
                         <option value="Camping Gear">Camping Gear</option>
                         <option value="Cleaning">Cleaning</option>
+                        <option value="Cleaning">Clothes</option>
                         <option value="Gaming">Gaming</option>
                         <option value="Tools">Tools</option>
                         <option value="Tools">Appliances</option>
